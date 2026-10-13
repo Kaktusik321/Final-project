@@ -1,0 +1,1001 @@
+﻿PatientID,Age,Sex,Race,Vitamin_D_level,Asthma,Symptoms,Allergy
+1,45,Female,White,49.35,1,Shortness of breath,0
+2,50,Male,White,20.6,0,No symptoms,0
+3,65,Male,Others,70.06,0,No symptoms,1
+4,58,Female,Black,24.34,0,No symptoms,0
+5,22,Male,Others,24.82,0,No symptoms,1
+6,82,Female,White,54.35,1,Cough,0
+7,19,Female,Others,12.18,0,No symptoms,0
+8,82,Male,Hispanic,76.45,0,No symptoms,1
+9,57,Male,Others,13.05,0,No symptoms,0
+10,56,Male,White,67.05,0,No symptoms,1
+11,48,Female,White,34.28,1,Wheezing,0
+12,23,Female,Asian,20.83,0,No symptoms,1
+13,75,Male,Asian,15.86,0,No symptoms,0
+14,72,Male,Others,74.92,0,No symptoms,1
+15,26,Male,Black,24.54,0,No symptoms,1
+16,64,Female,Hispanic,53.74,0,No symptoms,1
+17,73,Male,Hispanic,17.77,0,No symptoms,0
+18,55,Female,Hispanic,72.65,0,No symptoms,0
+19,81,Male,White,40.66,0,No symptoms,1
+20,72,Female,White,79.0,0,No symptoms,1
+21,51,Male,Asian,32.0,1,Cough,1
+22,67,Male,Hispanic,47.58,1,Wheezing,1
+23,53,Male,Hispanic,52.12,0,No symptoms,0
+24,40,Male,White,55.77,1,Shortness of breath,1
+25,62,Male,White,40.79,0,No symptoms,0
+26,29,Female,Others,31.25,0,No symptoms,1
+27,34,Male,Hispanic,18.95,1,Shortness of breath,1
+28,42,Male,Hispanic,33.0,1,Wheezing,0
+29,73,Male,Hispanic,18.96,0,No symptoms,1
+30,64,Female,White,14.9,1,Cough,0
+31,84,Male,Hispanic,11.83,0,No symptoms,0
+32,44,Male,White,42.49,0,No symptoms,0
+33,26,Male,Others,29.16,1,Shortness of breath,0
+34,23,Female,Black,49.1,0,No symptoms,1
+35,23,Female,Hispanic,67.37,0,No symptoms,0
+36,84,Male,Hispanic,52.69,0,No symptoms,1
+37,46,Female,Black,31.09,0,No symptoms,0
+38,51,Female,Asian,59.96,0,No symptoms,1
+39,54,Male,Others,11.63,0,No symptoms,0
+40,37,Male,White,72.43,1,Cough,0
+41,58,Female,Others,48.84,0,No symptoms,0
+42,58,Male,Black,52.83,0,No symptoms,0
+43,48,Male,White,14.29,0,No symptoms,1
+44,40,Female,Asian,38.98,0,No symptoms,1
+45,40,Female,White,36.54,0,No symptoms,0
+46,43,Male,Others,33.43,0,No symptoms,0
+47,49,Female,White,39.14,0,No symptoms,0
+48,65,Male,White,67.57,0,No symptoms,1
+49,20,Female,Asian,55.22,0,No symptoms,1
+50,30,Female,Hispanic,12.58,1,Shortness of breath,0
+51,67,Female,Hispanic,30.85,0,No symptoms,1
+52,28,Male,Black,44.43,0,No symptoms,1
+53,33,Female,White,53.21,0,No symptoms,0
+54,55,Female,Hispanic,34.41,1,Shortness of breath,1
+55,71,Male,White,44.09,0,No symptoms,0
+56,84,Male,Asian,47.44,1,Shortness of breath,1
+57,33,Female,Asian,71.11,0,No symptoms,0
+58,38,Female,Asian,51.71,0,No symptoms,1
+59,39,Male,Black,63.03,0,No symptoms,0
+60,70,Male,Asian,29.08,0,No symptoms,0
+61,78,Female,Hispanic,50.13,0,No symptoms,0
+62,51,Male,Asian,72.31,0,No symptoms,0
+63,41,Female,Others,42.04,1,Wheezing,1
+64,75,Female,Hispanic,17.44,0,No symptoms,0
+65,18,Male,Asian,13.02,0,No symptoms,0
+66,37,Female,Hispanic,25.05,0,No symptoms,1
+67,26,Female,Black,40.07,0,No symptoms,0
+68,81,Female,Others,77.08,0,No symptoms,1
+69,52,Female,White,77.9,0,No symptoms,0
+70,25,Male,Others,30.23,0,No symptoms,0
+71,57,Male,White,38.3,0,No symptoms,1
+72,69,Female,Hispanic,62.46,1,Wheezing,1
+73,53,Male,Others,62.76,0,No symptoms,0
+74,24,Female,Others,68.56,0,No symptoms,1
+75,50,Male,Asian,70.82,1,Wheezing,0
+76,52,Female,Asian,63.24,0,No symptoms,1
+77,72,Female,Hispanic,36.23,0,No symptoms,1
+78,37,Male,Others,41.19,1,Cough,0
+79,79,Female,Hispanic,24.18,0,No symptoms,0
+80,70,Male,Asian,62.48,0,No symptoms,0
+81,42,Male,Black,76.7,0,No symptoms,1
+82,46,Male,Others,56.34,0,No symptoms,1
+83,51,Male,Asian,47.5,0,No symptoms,0
+84,55,Male,White,78.69,0,No symptoms,0
+85,63,Female,Asian,58.11,1,Shortness of breath,1
+86,76,Female,Hispanic,80.0,0,No symptoms,0
+87,83,Female,Others,41.84,0,No symptoms,0
+88,76,Female,White,30.16,1,Shortness of breath,1
+89,43,Female,Others,27.31,0,No symptoms,1
+90,48,Female,Others,69.62,0,No symptoms,0
+91,43,Male,White,35.44,1,Wheezing,0
+92,43,Female,Asian,56.2,0,No symptoms,1
+93,20,Female,Hispanic,36.97,0,No symptoms,1
+94,61,Male,Hispanic,64.14,0,No symptoms,0
+95,77,Male,Others,51.98,0,No symptoms,0
+96,46,Female,Hispanic,71.12,0,No symptoms,0
+97,34,Female,Asian,10.49,1,Wheezing,1
+98,18,Male,Hispanic,38.3,0,No symptoms,0
+99,75,Male,Asian,42.71,0,No symptoms,1
+100,70,Male,White,17.01,0,No symptoms,0
+101,29,Male,Black,18.54,1,Wheezing,0
+102,68,Male,Black,68.22,0,No symptoms,0
+103,18,Male,White,54.54,0,No symptoms,0
+104,72,Male,Hispanic,48.22,0,No symptoms,1
+105,83,Female,Hispanic,35.41,1,Shortness of breath,1
+106,46,Male,Asian,40.21,0,No symptoms,0
+107,49,Female,Hispanic,47.88,0,No symptoms,0
+108,35,Female,Hispanic,74.22,0,No symptoms,0
+109,32,Male,Hispanic,65.62,0,No symptoms,0
+110,84,Male,Asian,47.33,0,No symptoms,1
+111,74,Male,White,22.62,0,No symptoms,0
+112,29,Female,White,79.49,0,No symptoms,0
+113,19,Male,Hispanic,12.95,1,Cough,0
+114,29,Male,Asian,75.44,0,No symptoms,1
+115,73,Female,Hispanic,55.48,0,No symptoms,1
+116,76,Female,White,75.27,0,No symptoms,1
+117,68,Male,Hispanic,47.04,0,No symptoms,1
+118,60,Male,White,17.11,0,No symptoms,0
+119,42,Male,Hispanic,62.68,0,No symptoms,0
+120,28,Male,White,54.44,0,No symptoms,0
+121,66,Male,White,35.94,0,No symptoms,1
+122,77,Male,Black,51.15,0,No symptoms,0
+123,63,Female,Others,75.53,1,Shortness of breath,0
+124,52,Male,Hispanic,12.33,1,Shortness of breath,1
+125,72,Female,Hispanic,69.35,0,No symptoms,0
+126,79,Female,Asian,38.01,0,No symptoms,0
+127,58,Female,Hispanic,34.87,1,Shortness of breath,0
+128,25,Male,Black,75.71,0,No symptoms,0
+129,56,Female,Others,73.38,0,No symptoms,0
+130,37,Female,Black,37.45,0,No symptoms,1
+131,48,Male,Others,41.75,0,No symptoms,0
+132,53,Female,Hispanic,24.59,0,No symptoms,1
+133,49,Female,Hispanic,18.01,0,No symptoms,1
+134,45,Female,Black,12.85,0,No symptoms,0
+135,57,Female,Asian,51.76,0,No symptoms,0
+136,58,Female,Others,35.71,0,No symptoms,0
+137,22,Female,White,66.96,0,No symptoms,0
+138,24,Female,Asian,61.25,1,Cough,0
+139,72,Male,Asian,49.74,0,No symptoms,0
+140,80,Male,Others,50.88,0,No symptoms,1
+141,53,Female,Others,41.69,0,No symptoms,1
+142,41,Female,Hispanic,44.06,0,No symptoms,0
+143,40,Female,White,57.66,0,No symptoms,1
+144,27,Female,White,77.54,0,No symptoms,1
+145,65,Female,Others,69.73,1,Wheezing,0
+146,41,Female,White,19.62,0,No symptoms,0
+147,84,Female,Asian,37.41,0,No symptoms,0
+148,47,Male,Asian,47.34,0,No symptoms,1
+149,44,Male,White,28.55,0,No symptoms,1
+150,83,Male,Asian,53.75,0,No symptoms,0
+151,84,Female,Hispanic,69.03,0,No symptoms,0
+152,71,Male,White,44.97,1,Cough,0
+153,79,Female,Hispanic,46.26,0,No symptoms,0
+154,70,Male,Others,67.72,0,No symptoms,1
+155,18,Female,Hispanic,75.7,1,Wheezing,0
+156,57,Male,Asian,26.88,0,No symptoms,1
+157,84,Female,White,78.88,0,No symptoms,0
+158,47,Male,Black,68.43,0,No symptoms,1
+159,75,Female,White,79.52,1,Shortness of breath,0
+160,67,Male,Hispanic,65.17,0,No symptoms,0
+161,33,Female,White,67.25,1,Shortness of breath,1
+162,40,Male,White,37.96,1,Wheezing,0
+163,44,Male,White,16.07,0,No symptoms,0
+164,47,Male,Others,35.92,0,No symptoms,0
+165,76,Female,White,72.87,1,Cough,1
+166,27,Male,Black,77.1,1,Cough,1
+167,23,Male,White,19.25,1,Shortness of breath,1
+168,82,Male,White,19.66,0,No symptoms,1
+169,25,Female,White,40.71,0,No symptoms,0
+170,50,Male,White,72.55,0,No symptoms,1
+171,39,Male,Asian,10.79,0,No symptoms,0
+172,26,Female,Black,33.88,0,No symptoms,1
+173,62,Male,White,52.0,0,No symptoms,1
+174,19,Male,Others,28.11,0,No symptoms,0
+175,46,Female,White,37.26,0,No symptoms,0
+176,63,Male,Black,10.17,0,No symptoms,1
+177,59,Female,Asian,46.65,1,Wheezing,0
+178,21,Female,White,38.19,0,No symptoms,1
+179,66,Female,Others,10.07,0,No symptoms,1
+180,65,Male,Hispanic,48.55,1,Wheezing,0
+181,18,Female,Others,27.25,1,Cough,1
+182,68,Female,Black,63.85,1,Shortness of breath,0
+183,35,Female,Asian,17.82,0,No symptoms,1
+184,67,Female,Asian,20.05,0,No symptoms,1
+185,81,Male,Hispanic,21.74,0,No symptoms,0
+186,30,Male,Hispanic,41.37,0,No symptoms,0
+187,56,Female,Black,56.81,1,Shortness of breath,1
+188,20,Male,Asian,77.99,0,No symptoms,0
+189,29,Female,Others,31.92,0,No symptoms,0
+190,18,Male,White,68.16,0,No symptoms,0
+191,53,Male,Others,79.41,0,No symptoms,0
+192,72,Male,White,10.63,0,No symptoms,1
+193,55,Female,White,56.9,0,No symptoms,0
+194,82,Male,White,36.38,1,Wheezing,0
+195,49,Male,Black,67.4,0,No symptoms,1
+196,25,Female,Asian,64.08,0,No symptoms,1
+197,80,Male,Others,23.23,1,Cough,0
+198,48,Male,Asian,36.83,1,Shortness of breath,0
+199,67,Female,Asian,32.82,0,No symptoms,1
+200,79,Male,Black,78.16,0,No symptoms,0
+201,65,Female,White,11.52,1,Shortness of breath,1
+202,26,Male,Asian,62.43,0,No symptoms,0
+203,79,Male,White,33.95,0,No symptoms,0
+204,68,Female,Hispanic,44.15,0,No symptoms,0
+205,71,Female,White,30.29,1,Shortness of breath,0
+206,36,Male,Black,45.04,1,Wheezing,0
+207,82,Male,Hispanic,65.87,0,No symptoms,0
+208,77,Female,Asian,41.13,0,No symptoms,1
+209,72,Female,Hispanic,49.53,0,No symptoms,1
+210,42,Male,Black,33.72,1,Shortness of breath,0
+211,52,Male,Others,41.39,0,No symptoms,1
+212,43,Male,Hispanic,76.93,0,No symptoms,1
+213,84,Female,Asian,44.78,0,No symptoms,1
+214,51,Male,Hispanic,66.52,0,No symptoms,0
+215,21,Male,Asian,38.75,1,Shortness of breath,0
+216,64,Male,Hispanic,51.07,1,Cough,1
+217,64,Female,Asian,42.74,0,No symptoms,1
+218,54,Male,Hispanic,54.65,0,No symptoms,0
+219,33,Female,Black,35.86,0,No symptoms,1
+220,35,Female,Others,56.01,0,No symptoms,1
+221,36,Female,Others,75.46,0,No symptoms,0
+222,36,Male,Others,13.43,1,Cough,1
+223,49,Female,Hispanic,13.05,1,Shortness of breath,1
+224,62,Male,Black,39.43,0,No symptoms,1
+225,41,Female,Others,17.26,0,No symptoms,0
+226,60,Female,White,10.65,0,No symptoms,0
+227,26,Male,Asian,51.79,0,No symptoms,1
+228,30,Male,White,38.18,0,No symptoms,1
+229,71,Female,White,70.4,1,Shortness of breath,0
+230,73,Female,White,62.97,0,No symptoms,0
+231,36,Male,Hispanic,28.27,0,No symptoms,1
+232,68,Male,Hispanic,23.35,0,No symptoms,0
+233,43,Female,Black,35.7,0,No symptoms,0
+234,77,Male,Black,79.27,0,No symptoms,0
+235,84,Male,Black,16.37,1,Shortness of breath,0
+236,40,Female,Hispanic,55.25,0,No symptoms,1
+237,60,Male,White,57.35,0,No symptoms,1
+238,64,Male,Hispanic,34.0,1,Shortness of breath,0
+239,64,Female,Hispanic,29.97,1,Shortness of breath,0
+240,32,Male,Others,62.86,0,No symptoms,1
+241,67,Female,Asian,78.67,0,No symptoms,0
+242,50,Male,White,43.18,0,No symptoms,1
+243,71,Female,Hispanic,68.57,1,Shortness of breath,1
+244,66,Male,Hispanic,52.91,0,No symptoms,1
+245,34,Male,Others,71.89,0,No symptoms,1
+246,49,Male,Hispanic,48.6,0,No symptoms,0
+247,71,Female,Hispanic,12.19,0,No symptoms,1
+248,35,Male,Others,72.07,0,No symptoms,1
+249,44,Male,Asian,47.74,0,No symptoms,1
+250,28,Female,Hispanic,40.19,0,No symptoms,1
+251,28,Female,Hispanic,13.77,0,No symptoms,0
+252,52,Male,Hispanic,20.34,1,Wheezing,0
+253,84,Male,White,32.87,0,No symptoms,0
+254,21,Female,White,47.52,0,No symptoms,1
+255,18,Male,Black,71.18,1,Cough,0
+256,55,Female,Asian,25.36,0,No symptoms,0
+257,40,Male,Black,41.15,1,Shortness of breath,1
+258,68,Female,Black,34.1,0,No symptoms,1
+259,38,Male,White,56.22,0,No symptoms,0
+260,70,Male,Others,46.82,0,No symptoms,1
+261,65,Female,Asian,53.15,0,No symptoms,0
+262,40,Female,Hispanic,54.02,0,No symptoms,0
+263,62,Male,Hispanic,47.41,0,No symptoms,1
+264,26,Female,Others,23.54,0,No symptoms,0
+265,81,Female,Black,26.79,0,No symptoms,1
+266,31,Female,Asian,65.59,0,No symptoms,0
+267,74,Male,White,34.83,0,No symptoms,1
+268,51,Female,Asian,33.14,0,No symptoms,1
+269,41,Female,Others,64.7,0,No symptoms,1
+270,57,Female,Black,25.98,0,No symptoms,1
+271,75,Male,Others,42.57,0,No symptoms,1
+272,83,Male,White,35.75,1,Cough,0
+273,19,Female,Black,21.15,1,Shortness of breath,0
+274,55,Male,Black,43.22,0,No symptoms,0
+275,41,Female,Hispanic,68.91,1,Shortness of breath,0
+276,64,Female,Asian,21.36,0,No symptoms,1
+277,24,Male,White,49.45,0,No symptoms,0
+278,63,Female,White,40.12,0,No symptoms,0
+279,55,Male,Hispanic,75.26,0,No symptoms,0
+280,37,Female,Asian,33.41,0,No symptoms,1
+281,69,Male,Asian,77.1,0,No symptoms,0
+282,26,Female,Hispanic,79.69,0,No symptoms,0
+283,78,Male,Black,18.57,0,No symptoms,1
+284,60,Male,White,11.26,0,No symptoms,0
+285,26,Female,Hispanic,15.18,0,No symptoms,0
+286,33,Female,White,29.46,0,No symptoms,0
+287,53,Male,Hispanic,19.36,0,No symptoms,0
+288,36,Female,Asian,67.92,0,No symptoms,1
+289,73,Male,Others,18.05,0,No symptoms,0
+290,24,Male,Hispanic,31.79,0,No symptoms,0
+291,48,Male,Black,43.22,0,No symptoms,0
+292,73,Male,Asian,20.63,0,No symptoms,0
+293,20,Male,Asian,37.88,0,No symptoms,0
+294,22,Female,Hispanic,23.63,0,No symptoms,1
+295,71,Female,Asian,48.17,0,No symptoms,0
+296,83,Female,Asian,30.41,1,Cough,0
+297,29,Male,Asian,72.93,1,Shortness of breath,0
+298,71,Male,Asian,12.48,0,No symptoms,0
+299,52,Female,Others,69.86,0,No symptoms,0
+300,82,Female,Black,35.81,1,Shortness of breath,0
+301,30,Male,Others,27.6,0,No symptoms,1
+302,60,Male,Others,35.06,0,No symptoms,0
+303,49,Male,Hispanic,79.96,0,No symptoms,1
+304,40,Male,Black,77.38,1,Shortness of breath,0
+305,72,Female,Hispanic,36.79,1,Shortness of breath,1
+306,61,Female,Asian,64.83,0,No symptoms,1
+307,53,Female,Hispanic,15.58,0,No symptoms,1
+308,50,Female,Black,38.83,1,Wheezing,0
+309,53,Female,Black,72.56,0,No symptoms,1
+310,30,Male,Asian,41.06,0,No symptoms,1
+311,21,Male,Asian,43.37,1,Cough,1
+312,69,Male,Black,20.51,1,Wheezing,1
+313,81,Female,Asian,22.09,0,No symptoms,0
+314,37,Male,Hispanic,39.85,0,No symptoms,1
+315,58,Male,White,40.35,0,No symptoms,1
+316,22,Female,Asian,16.93,0,No symptoms,0
+317,77,Male,Hispanic,14.76,1,Shortness of breath,0
+318,61,Male,Black,37.24,1,Shortness of breath,0
+319,50,Male,White,47.84,1,Cough,0
+320,50,Male,Others,45.1,0,No symptoms,0
+321,67,Female,Black,62.16,0,No symptoms,0
+322,57,Male,White,42.54,0,No symptoms,0
+323,25,Male,Black,18.79,1,Wheezing,0
+324,72,Female,White,54.74,0,No symptoms,1
+325,61,Male,Black,30.54,0,No symptoms,1
+326,71,Female,White,55.58,1,Cough,0
+327,85,Male,Asian,52.16,0,No symptoms,0
+328,76,Female,Black,54.27,0,No symptoms,1
+329,27,Male,Hispanic,41.0,0,No symptoms,0
+330,61,Male,White,33.85,0,No symptoms,0
+331,48,Male,Others,48.55,0,No symptoms,1
+332,33,Male,Others,73.27,0,No symptoms,1
+333,75,Female,Hispanic,37.91,0,No symptoms,1
+334,74,Female,Others,22.45,0,No symptoms,1
+335,22,Male,Black,27.5,0,No symptoms,0
+336,57,Male,Black,40.68,1,Wheezing,0
+337,38,Female,White,15.6,0,No symptoms,1
+338,28,Male,Hispanic,20.08,0,No symptoms,0
+339,70,Female,Others,54.99,0,No symptoms,0
+340,62,Female,White,14.78,0,No symptoms,1
+341,80,Male,Asian,50.7,0,No symptoms,0
+342,37,Female,White,73.56,0,No symptoms,0
+343,54,Female,Black,15.63,0,No symptoms,0
+344,54,Female,White,71.9,0,No symptoms,0
+345,65,Female,White,37.33,1,Wheezing,0
+346,45,Female,Hispanic,30.49,1,Cough,1
+347,45,Male,White,54.53,1,Shortness of breath,0
+348,33,Female,White,11.83,0,No symptoms,0
+349,65,Female,Asian,27.71,0,No symptoms,0
+350,28,Male,White,27.71,1,Wheezing,0
+351,36,Female,Black,56.82,0,No symptoms,0
+352,63,Male,Hispanic,23.6,0,No symptoms,1
+353,26,Female,Black,34.56,1,Cough,1
+354,44,Female,White,60.98,1,Shortness of breath,0
+355,28,Male,Asian,46.55,0,No symptoms,0
+356,76,Female,Asian,68.61,0,No symptoms,1
+357,44,Male,White,20.37,1,Wheezing,1
+358,18,Male,Hispanic,13.15,0,No symptoms,0
+359,44,Female,White,50.94,0,No symptoms,0
+360,36,Male,White,22.25,0,No symptoms,1
+361,63,Male,Asian,52.09,0,No symptoms,1
+362,49,Female,Black,69.84,1,Cough,1
+363,39,Male,Asian,56.09,0,No symptoms,0
+364,31,Female,White,19.18,1,Cough,1
+365,63,Female,Others,67.53,0,No symptoms,0
+366,49,Female,Others,33.11,0,No symptoms,0
+367,22,Male,White,21.59,0,No symptoms,1
+368,73,Male,Black,64.44,0,No symptoms,1
+369,72,Male,Asian,52.29,0,No symptoms,0
+370,84,Male,Others,52.02,0,No symptoms,0
+371,68,Female,Asian,30.09,0,No symptoms,1
+372,41,Female,Asian,79.38,0,No symptoms,0
+373,34,Male,White,17.8,0,No symptoms,0
+374,83,Female,Asian,21.24,1,Cough,0
+375,26,Male,Others,66.01,0,No symptoms,0
+376,83,Male,White,62.72,0,No symptoms,0
+377,45,Female,Black,47.59,0,No symptoms,0
+378,47,Male,Black,13.86,0,No symptoms,0
+379,80,Female,Black,38.28,0,No symptoms,1
+380,35,Male,White,17.73,1,Wheezing,0
+381,54,Female,White,55.09,0,No symptoms,1
+382,73,Female,Black,46.91,0,No symptoms,0
+383,73,Male,White,45.04,0,No symptoms,0
+384,23,Male,Asian,69.02,0,No symptoms,0
+385,83,Male,Asian,58.12,0,No symptoms,1
+386,60,Female,Asian,69.84,0,No symptoms,1
+387,47,Female,White,41.04,0,No symptoms,1
+388,27,Female,White,64.15,0,No symptoms,0
+389,80,Female,Black,36.37,0,No symptoms,1
+390,82,Male,Asian,10.04,1,Cough,1
+391,32,Female,Others,78.6,1,Shortness of breath,1
+392,51,Male,Hispanic,75.16,0,No symptoms,1
+393,34,Female,White,38.65,0,No symptoms,1
+394,32,Female,Hispanic,76.45,0,No symptoms,1
+395,48,Female,Asian,30.24,0,No symptoms,0
+396,58,Female,Black,14.74,0,No symptoms,1
+397,30,Female,Hispanic,60.83,0,No symptoms,0
+398,58,Male,Others,37.54,1,Cough,0
+399,59,Female,Black,48.67,1,Shortness of breath,0
+400,68,Male,White,19.38,0,No symptoms,1
+401,79,Male,Black,20.39,0,No symptoms,0
+402,60,Female,Others,23.36,0,No symptoms,0
+403,57,Male,Hispanic,46.93,0,No symptoms,1
+404,70,Male,Hispanic,65.52,0,No symptoms,0
+405,36,Male,White,19.11,0,No symptoms,0
+406,54,Female,White,20.56,0,No symptoms,1
+407,25,Male,White,13.02,0,No symptoms,1
+408,55,Female,Asian,31.78,0,No symptoms,1
+409,24,Male,Asian,64.48,1,Shortness of breath,0
+410,57,Male,Asian,13.72,0,No symptoms,1
+411,81,Female,Others,60.62,0,No symptoms,0
+412,18,Female,White,79.19,0,No symptoms,1
+413,76,Male,Hispanic,21.57,0,No symptoms,0
+414,43,Male,White,46.87,0,No symptoms,0
+415,51,Female,Black,73.28,0,No symptoms,1
+416,71,Male,Others,45.96,0,No symptoms,0
+417,71,Male,White,53.58,0,No symptoms,1
+418,59,Female,White,45.3,0,No symptoms,0
+419,72,Male,Black,46.07,1,Shortness of breath,0
+420,82,Male,Hispanic,37.23,0,No symptoms,0
+421,43,Female,Hispanic,72.05,1,Wheezing,0
+422,75,Male,Asian,51.1,0,No symptoms,0
+423,45,Male,White,77.39,0,No symptoms,0
+424,27,Female,White,65.16,0,No symptoms,0
+425,48,Male,Asian,41.79,0,No symptoms,0
+426,20,Female,White,16.64,0,No symptoms,1
+427,28,Male,Others,71.65,0,No symptoms,0
+428,50,Male,Hispanic,46.58,0,No symptoms,0
+429,63,Female,Black,30.58,1,Cough,1
+430,19,Female,Others,63.86,0,No symptoms,1
+431,46,Male,Hispanic,73.0,1,Cough,1
+432,32,Male,Asian,62.48,0,No symptoms,0
+433,78,Female,Hispanic,28.91,0,No symptoms,0
+434,82,Male,White,77.57,0,No symptoms,0
+435,42,Male,Asian,52.2,0,No symptoms,0
+436,29,Male,White,64.1,0,No symptoms,1
+437,52,Male,Others,17.71,0,No symptoms,0
+438,24,Male,Others,12.62,0,No symptoms,0
+439,56,Male,White,19.05,0,No symptoms,0
+440,61,Female,White,66.83,0,No symptoms,1
+441,46,Male,Hispanic,16.05,0,No symptoms,1
+442,42,Female,White,51.74,0,No symptoms,0
+443,27,Female,Black,52.26,0,No symptoms,1
+444,65,Female,White,32.86,0,No symptoms,0
+445,69,Male,White,24.69,0,No symptoms,1
+446,34,Male,Hispanic,71.61,0,No symptoms,0
+447,76,Female,White,67.88,0,No symptoms,0
+448,46,Female,Asian,14.39,0,No symptoms,1
+449,72,Female,Others,65.06,1,Cough,0
+450,47,Female,Hispanic,63.84,0,No symptoms,0
+451,64,Male,Black,13.85,1,Wheezing,0
+452,65,Female,White,11.22,1,Cough,1
+453,34,Male,Others,36.47,1,Cough,1
+454,48,Female,Hispanic,75.85,0,No symptoms,0
+455,44,Male,Asian,64.83,1,Cough,1
+456,21,Female,Others,66.45,0,No symptoms,1
+457,43,Male,Others,44.32,0,No symptoms,1
+458,23,Female,Hispanic,68.6,0,No symptoms,1
+459,63,Female,White,27.2,0,No symptoms,0
+460,72,Female,Others,34.05,1,Shortness of breath,1
+461,36,Male,Others,73.86,1,Cough,0
+462,73,Female,Asian,10.7,0,No symptoms,0
+463,77,Female,Black,24.6,0,No symptoms,0
+464,55,Female,Hispanic,12.48,0,No symptoms,0
+465,30,Female,Others,57.53,0,No symptoms,1
+466,38,Male,Asian,61.99,0,No symptoms,0
+467,29,Male,Hispanic,18.5,0,No symptoms,0
+468,68,Male,Hispanic,66.72,0,No symptoms,0
+469,85,Female,Asian,37.43,0,No symptoms,0
+470,27,Male,White,49.7,0,No symptoms,1
+471,43,Male,Black,24.34,0,No symptoms,1
+472,31,Male,White,48.61,0,No symptoms,1
+473,38,Male,Asian,11.09,0,No symptoms,1
+474,45,Female,Black,68.93,0,No symptoms,1
+475,36,Male,Hispanic,23.24,0,No symptoms,1
+476,47,Male,Asian,50.31,0,No symptoms,1
+477,52,Female,White,17.7,0,No symptoms,1
+478,74,Male,Hispanic,38.84,0,No symptoms,1
+479,39,Female,Hispanic,24.86,0,No symptoms,0
+480,25,Female,Black,44.18,0,No symptoms,0
+481,82,Male,Hispanic,11.75,0,No symptoms,1
+482,38,Female,Hispanic,25.29,0,No symptoms,0
+483,60,Female,Asian,61.91,1,Shortness of breath,1
+484,27,Female,White,31.79,0,No symptoms,0
+485,39,Male,Others,68.25,0,No symptoms,1
+486,21,Male,White,42.2,0,No symptoms,1
+487,70,Female,Black,73.6,1,Wheezing,0
+488,59,Male,Hispanic,44.4,0,No symptoms,1
+489,36,Male,Hispanic,77.23,0,No symptoms,1
+490,32,Female,White,51.53,0,No symptoms,1
+491,57,Female,Others,23.57,0,No symptoms,0
+492,35,Female,Asian,48.6,0,No symptoms,0
+493,18,Male,Hispanic,30.23,1,Cough,0
+494,46,Female,Asian,22.24,1,Shortness of breath,0
+495,37,Male,Others,77.04,0,No symptoms,1
+496,18,Female,Hispanic,20.18,1,Shortness of breath,1
+497,76,Female,Others,44.39,0,No symptoms,0
+498,37,Male,White,64.51,0,No symptoms,1
+499,36,Female,White,56.76,0,No symptoms,1
+500,39,Male,Asian,36.39,0,No symptoms,1
+501,64,Male,Black,68.1,0,No symptoms,0
+502,79,Male,Others,62.59,0,No symptoms,0
+503,51,Female,Black,52.18,1,Cough,0
+504,79,Male,White,43.35,0,No symptoms,1
+505,20,Female,Others,28.64,0,No symptoms,0
+506,84,Male,Black,17.6,0,No symptoms,0
+507,83,Male,White,58.66,0,No symptoms,1
+508,59,Female,Black,28.78,0,No symptoms,1
+509,85,Male,Hispanic,17.08,1,Wheezing,1
+510,49,Female,Others,13.52,0,No symptoms,1
+511,21,Male,White,76.39,1,Shortness of breath,0
+512,37,Male,Hispanic,30.93,1,Cough,1
+513,71,Female,Black,48.87,0,No symptoms,1
+514,35,Male,Others,36.22,0,No symptoms,0
+515,24,Male,Others,14.27,0,No symptoms,0
+516,18,Male,Others,56.48,0,No symptoms,0
+517,41,Male,Others,53.64,1,Shortness of breath,0
+518,29,Female,Others,36.75,0,No symptoms,1
+519,19,Male,Black,65.35,1,Cough,0
+520,78,Female,Others,52.76,1,Wheezing,0
+521,54,Male,Asian,62.4,0,No symptoms,0
+522,49,Male,Hispanic,45.14,0,No symptoms,1
+523,52,Female,Others,59.63,0,No symptoms,0
+524,65,Male,Hispanic,36.37,0,No symptoms,1
+525,68,Female,White,35.89,1,Shortness of breath,0
+526,49,Male,Hispanic,43.18,0,No symptoms,1
+527,55,Male,Asian,65.05,0,No symptoms,0
+528,33,Female,Others,24.98,0,No symptoms,1
+529,53,Female,Black,20.87,1,Wheezing,0
+530,75,Male,Hispanic,54.39,0,No symptoms,0
+531,42,Female,Hispanic,19.36,1,Wheezing,0
+532,53,Male,White,39.58,0,No symptoms,0
+533,33,Female,Black,58.05,0,No symptoms,1
+534,63,Female,Asian,55.4,0,No symptoms,1
+535,81,Female,Asian,54.95,0,No symptoms,1
+536,65,Female,Asian,63.47,1,Wheezing,1
+537,27,Female,Black,45.24,1,Cough,0
+538,79,Male,White,61.7,0,No symptoms,0
+539,49,Male,Hispanic,10.96,0,No symptoms,0
+540,27,Male,Black,11.14,0,No symptoms,1
+541,83,Male,White,33.41,0,No symptoms,0
+542,33,Male,Black,43.3,0,No symptoms,0
+543,52,Female,White,71.33,0,No symptoms,1
+544,43,Female,Hispanic,77.78,0,No symptoms,1
+545,80,Male,Asian,12.41,0,No symptoms,1
+546,22,Male,Others,33.27,1,Wheezing,0
+547,51,Female,Hispanic,78.74,0,No symptoms,1
+548,59,Female,Others,33.77,0,No symptoms,0
+549,20,Female,Hispanic,53.25,1,Cough,0
+550,36,Male,Black,71.27,1,Cough,1
+551,74,Female,Asian,31.41,0,No symptoms,1
+552,50,Male,Others,78.34,0,No symptoms,1
+553,23,Female,Asian,61.17,1,Wheezing,1
+554,45,Male,Others,38.73,0,No symptoms,0
+555,32,Female,White,14.12,0,No symptoms,1
+556,80,Female,Black,32.95,0,No symptoms,1
+557,38,Female,Black,68.37,0,No symptoms,1
+558,81,Male,White,53.95,1,Shortness of breath,1
+559,47,Male,Black,69.23,1,Cough,1
+560,51,Female,White,77.02,0,No symptoms,1
+561,66,Female,Black,16.24,0,No symptoms,0
+562,21,Female,Asian,18.03,0,No symptoms,1
+563,82,Male,White,44.77,0,No symptoms,0
+564,51,Female,White,64.71,0,No symptoms,0
+565,44,Male,Others,68.15,0,No symptoms,0
+566,25,Male,Black,10.11,0,No symptoms,1
+567,34,Female,White,54.47,0,No symptoms,1
+568,44,Male,Others,47.01,1,Cough,1
+569,56,Male,Hispanic,22.86,0,No symptoms,1
+570,76,Male,Black,51.38,0,No symptoms,1
+571,60,Female,Others,68.9,0,No symptoms,0
+572,21,Male,White,15.59,0,No symptoms,0
+573,77,Male,White,25.51,0,No symptoms,1
+574,43,Female,White,66.03,0,No symptoms,1
+575,28,Female,White,56.32,0,No symptoms,0
+576,63,Male,Hispanic,21.56,0,No symptoms,0
+577,83,Female,Others,32.12,1,Shortness of breath,0
+578,32,Male,Others,14.76,0,No symptoms,1
+579,52,Female,Asian,18.91,0,No symptoms,0
+580,25,Male,Hispanic,18.6,1,Wheezing,1
+581,69,Male,Asian,66.42,0,No symptoms,0
+582,45,Male,Asian,49.47,0,No symptoms,0
+583,76,Male,Hispanic,46.56,0,No symptoms,1
+584,75,Female,Asian,33.4,0,No symptoms,0
+585,56,Female,Asian,13.62,0,No symptoms,0
+586,77,Male,Asian,13.86,0,No symptoms,0
+587,83,Female,Black,58.56,1,Shortness of breath,0
+588,55,Male,Black,23.8,1,Shortness of breath,0
+589,29,Female,Asian,57.89,0,No symptoms,1
+590,52,Male,White,20.19,1,Shortness of breath,1
+591,57,Male,Hispanic,35.55,0,No symptoms,0
+592,22,Female,Asian,27.75,0,No symptoms,0
+593,70,Female,White,28.83,1,Cough,1
+594,82,Female,Black,56.7,0,No symptoms,0
+595,68,Male,Asian,79.47,0,No symptoms,0
+596,43,Female,Asian,72.45,0,No symptoms,0
+597,59,Female,Black,36.51,0,No symptoms,0
+598,57,Female,Hispanic,54.71,0,No symptoms,1
+599,41,Male,Asian,47.09,0,No symptoms,0
+600,57,Female,Black,75.83,1,Shortness of breath,0
+601,77,Female,Asian,63.41,0,No symptoms,1
+602,58,Male,Black,49.68,1,Cough,1
+603,76,Female,Asian,74.04,0,No symptoms,0
+604,80,Female,Black,11.64,0,No symptoms,0
+605,78,Male,Asian,17.96,0,No symptoms,1
+606,27,Female,Black,12.55,0,No symptoms,1
+607,33,Male,White,66.92,0,No symptoms,1
+608,51,Female,Others,15.3,0,No symptoms,1
+609,40,Male,Asian,60.95,0,No symptoms,1
+610,46,Female,Asian,49.08,0,No symptoms,1
+611,60,Male,Asian,17.42,1,Shortness of breath,1
+612,26,Male,White,46.4,0,No symptoms,1
+613,75,Female,Others,72.51,0,No symptoms,0
+614,79,Female,Black,30.5,0,No symptoms,1
+615,35,Male,Others,67.89,0,No symptoms,0
+616,62,Male,White,21.38,1,Shortness of breath,1
+617,58,Male,Black,50.42,0,No symptoms,1
+618,42,Male,Asian,20.91,0,No symptoms,1
+619,24,Female,White,65.47,0,No symptoms,0
+620,63,Male,Others,17.86,0,No symptoms,0
+621,41,Female,Black,45.19,1,Cough,0
+622,29,Female,Others,14.7,0,No symptoms,0
+623,31,Female,Hispanic,21.16,0,No symptoms,1
+624,85,Male,Asian,76.53,0,No symptoms,1
+625,56,Female,Hispanic,72.74,0,No symptoms,0
+626,76,Male,White,28.21,1,Wheezing,0
+627,66,Female,Black,14.64,0,No symptoms,0
+628,46,Female,White,11.79,0,No symptoms,0
+629,71,Male,Black,40.43,0,No symptoms,0
+630,65,Male,Hispanic,24.59,0,No symptoms,0
+631,69,Female,Black,53.23,1,Shortness of breath,0
+632,56,Male,Black,50.27,0,No symptoms,1
+633,51,Male,White,71.18,1,Wheezing,1
+634,56,Male,Hispanic,13.25,1,Shortness of breath,0
+635,34,Female,Hispanic,33.87,0,No symptoms,0
+636,21,Female,Black,40.16,1,Shortness of breath,1
+637,44,Male,Asian,15.36,0,No symptoms,0
+638,50,Female,Hispanic,25.32,0,No symptoms,0
+639,64,Female,Hispanic,51.54,1,Cough,1
+640,51,Female,White,63.65,0,No symptoms,0
+641,40,Female,Others,49.48,0,No symptoms,0
+642,75,Male,Black,17.55,1,Wheezing,1
+643,42,Female,White,43.15,0,No symptoms,1
+644,19,Male,Hispanic,68.29,0,No symptoms,0
+645,68,Male,Asian,28.8,1,Cough,0
+646,81,Female,White,61.18,1,Wheezing,0
+647,73,Female,Hispanic,34.34,0,No symptoms,1
+648,36,Female,Hispanic,40.11,0,No symptoms,1
+649,34,Female,White,56.21,1,Shortness of breath,1
+650,33,Male,Black,21.55,1,Wheezing,1
+651,63,Female,White,44.36,0,No symptoms,0
+652,39,Female,Hispanic,14.37,1,Wheezing,0
+653,77,Male,White,72.17,0,No symptoms,1
+654,19,Male,Others,61.6,0,No symptoms,1
+655,85,Female,Black,25.77,0,No symptoms,0
+656,71,Female,Others,37.83,0,No symptoms,0
+657,36,Female,Black,46.3,0,No symptoms,1
+658,49,Male,Hispanic,23.91,0,No symptoms,0
+659,75,Female,Black,28.11,0,No symptoms,0
+660,20,Male,Hispanic,31.04,0,No symptoms,1
+661,35,Male,Others,11.88,0,No symptoms,0
+662,78,Female,Others,25.98,0,No symptoms,0
+663,43,Male,Others,15.83,0,No symptoms,1
+664,39,Male,Others,22.22,0,No symptoms,0
+665,63,Female,White,59.6,0,No symptoms,0
+666,46,Female,Black,17.85,1,Cough,1
+667,26,Female,Black,62.23,0,No symptoms,0
+668,54,Male,Black,32.89,0,No symptoms,1
+669,36,Female,Black,60.52,0,No symptoms,0
+670,76,Male,Hispanic,75.09,0,No symptoms,0
+671,78,Male,Asian,52.03,1,Cough,1
+672,66,Female,Black,66.9,1,Cough,0
+673,83,Male,Others,34.69,0,No symptoms,1
+674,39,Female,Others,79.39,0,No symptoms,0
+675,25,Female,Black,77.3,0,No symptoms,0
+676,67,Male,Asian,69.44,0,No symptoms,0
+677,39,Male,Black,51.98,0,No symptoms,0
+678,80,Male,Hispanic,79.9,0,No symptoms,0
+679,40,Male,Others,58.82,0,No symptoms,1
+680,77,Male,Others,77.32,0,No symptoms,0
+681,59,Male,Others,32.88,0,No symptoms,0
+682,78,Male,Black,65.5,0,No symptoms,0
+683,20,Female,Others,12.07,0,No symptoms,0
+684,41,Female,Black,71.35,1,Shortness of breath,0
+685,31,Male,Black,13.4,1,Wheezing,0
+686,63,Female,Black,76.46,0,No symptoms,0
+687,46,Female,Others,72.97,1,Cough,0
+688,28,Male,Asian,49.81,0,No symptoms,1
+689,40,Female,Black,23.73,0,No symptoms,0
+690,52,Female,White,16.44,0,No symptoms,0
+691,83,Female,White,50.46,0,No symptoms,1
+692,43,Female,Others,35.62,0,No symptoms,1
+693,47,Female,Hispanic,18.25,0,No symptoms,0
+694,81,Male,Black,69.75,0,No symptoms,1
+695,49,Female,Black,45.93,0,No symptoms,1
+696,39,Female,White,66.98,0,No symptoms,0
+697,66,Male,Hispanic,22.91,0,No symptoms,0
+698,18,Female,White,11.5,1,Shortness of breath,1
+699,60,Female,Hispanic,74.08,0,No symptoms,0
+700,67,Male,Hispanic,16.49,0,No symptoms,1
+701,68,Female,Hispanic,31.7,0,No symptoms,1
+702,72,Male,Asian,33.99,0,No symptoms,0
+703,60,Female,Hispanic,27.12,0,No symptoms,1
+704,44,Male,White,51.22,0,No symptoms,0
+705,70,Female,Black,73.36,0,No symptoms,1
+706,40,Male,White,63.82,0,No symptoms,0
+707,57,Male,White,48.52,1,Shortness of breath,0
+708,54,Male,Asian,77.02,0,No symptoms,0
+709,26,Male,Asian,67.82,1,Cough,1
+710,32,Female,Others,53.2,0,No symptoms,0
+711,57,Female,White,67.81,0,No symptoms,0
+712,33,Female,Black,27.48,0,No symptoms,0
+713,29,Male,Others,15.43,1,Shortness of breath,0
+714,80,Female,Black,21.0,0,No symptoms,0
+715,20,Male,Hispanic,16.88,0,No symptoms,0
+716,34,Male,Hispanic,25.64,0,No symptoms,1
+717,34,Female,Asian,39.9,0,No symptoms,0
+718,83,Male,White,27.47,0,No symptoms,0
+719,53,Female,Others,59.08,0,No symptoms,0
+720,76,Female,Black,47.19,1,Wheezing,1
+721,78,Male,Others,72.85,0,No symptoms,1
+722,35,Male,Others,63.3,0,No symptoms,0
+723,61,Female,Black,33.33,0,No symptoms,1
+724,64,Female,Hispanic,56.98,1,Shortness of breath,1
+725,52,Male,Black,54.65,0,No symptoms,1
+726,80,Female,Others,23.41,0,No symptoms,0
+727,43,Female,White,59.35,1,Shortness of breath,0
+728,69,Male,Hispanic,18.76,0,No symptoms,0
+729,33,Female,Asian,67.83,0,No symptoms,1
+730,42,Male,Hispanic,35.78,0,No symptoms,0
+731,31,Male,Asian,37.23,0,No symptoms,0
+732,50,Male,Hispanic,66.1,0,No symptoms,1
+733,60,Male,White,20.01,0,No symptoms,1
+734,61,Female,White,15.77,0,No symptoms,0
+735,18,Female,White,31.88,0,No symptoms,0
+736,53,Male,Others,11.88,1,Cough,1
+737,40,Male,Others,73.78,0,No symptoms,0
+738,55,Male,Black,56.88,0,No symptoms,1
+739,42,Male,Others,47.65,0,No symptoms,1
+740,81,Female,Others,40.72,1,Cough,1
+741,41,Female,Black,71.06,1,Wheezing,1
+742,67,Male,Others,36.5,0,No symptoms,0
+743,83,Male,Black,56.1,1,Wheezing,1
+744,62,Female,Black,65.16,1,Wheezing,0
+745,18,Male,Others,27.23,1,Cough,0
+746,36,Male,Hispanic,44.42,0,No symptoms,0
+747,65,Female,White,36.2,1,Shortness of breath,0
+748,24,Male,Black,36.72,0,No symptoms,1
+749,18,Male,Asian,48.03,0,No symptoms,1
+750,53,Female,Asian,62.35,0,No symptoms,1
+751,59,Female,White,61.11,1,Wheezing,0
+752,55,Female,Others,79.53,1,Wheezing,1
+753,85,Female,Black,72.91,0,No symptoms,1
+754,68,Female,Asian,33.13,0,No symptoms,1
+755,31,Male,Others,74.74,1,Cough,0
+756,35,Male,Hispanic,30.66,0,No symptoms,0
+757,58,Female,White,22.39,1,Shortness of breath,0
+758,25,Male,Black,37.1,0,No symptoms,1
+759,72,Female,Black,47.66,0,No symptoms,0
+760,55,Female,Hispanic,39.35,0,No symptoms,1
+761,33,Female,Asian,46.11,0,No symptoms,0
+762,23,Male,Asian,34.4,1,Cough,0
+763,20,Female,White,63.94,0,No symptoms,1
+764,48,Male,Black,56.56,0,No symptoms,1
+765,19,Female,Others,17.03,0,No symptoms,0
+766,76,Male,Hispanic,12.24,0,No symptoms,0
+767,22,Male,Others,28.25,0,No symptoms,1
+768,41,Female,Black,14.04,1,Cough,0
+769,81,Female,Black,64.13,0,No symptoms,0
+770,83,Male,Asian,20.72,1,Shortness of breath,1
+771,51,Female,Hispanic,36.83,0,No symptoms,1
+772,32,Male,White,20.11,0,No symptoms,0
+773,61,Female,Others,69.93,1,Shortness of breath,0
+774,21,Male,Hispanic,10.78,0,No symptoms,0
+775,63,Female,Hispanic,29.37,1,Cough,1
+776,20,Female,White,35.24,0,No symptoms,1
+777,30,Female,Others,37.81,0,No symptoms,0
+778,56,Female,Hispanic,47.82,1,Cough,0
+779,38,Male,Black,11.34,0,No symptoms,1
+780,83,Female,Black,79.57,0,No symptoms,0
+781,61,Female,Hispanic,42.14,0,No symptoms,1
+782,85,Male,Hispanic,28.47,1,Wheezing,0
+783,34,Male,Black,64.71,0,No symptoms,0
+784,44,Female,White,71.59,0,No symptoms,0
+785,77,Female,Asian,78.02,0,No symptoms,0
+786,64,Female,Others,76.59,0,No symptoms,1
+787,37,Female,Asian,45.34,0,No symptoms,0
+788,81,Male,Black,74.49,1,Cough,0
+789,67,Male,Hispanic,63.08,0,No symptoms,1
+790,22,Male,Hispanic,55.38,1,Cough,0
+791,52,Female,Asian,73.56,0,No symptoms,1
+792,25,Female,White,12.44,0,No symptoms,0
+793,77,Male,Others,23.29,0,No symptoms,0
+794,42,Male,White,77.52,0,No symptoms,1
+795,38,Female,Others,68.91,0,No symptoms,0
+796,60,Male,Black,38.32,0,No symptoms,0
+797,21,Male,Black,49.18,0,No symptoms,0
+798,59,Female,Hispanic,18.12,0,No symptoms,0
+799,82,Female,Hispanic,25.49,0,No symptoms,1
+800,61,Male,White,74.45,0,No symptoms,0
+801,36,Male,Black,39.01,0,No symptoms,0
+802,25,Male,Others,42.06,0,No symptoms,1
+803,29,Female,White,69.31,1,Shortness of breath,0
+804,54,Male,Hispanic,55.28,0,No symptoms,0
+805,84,Female,Hispanic,49.88,0,No symptoms,0
+806,46,Male,Asian,45.65,0,No symptoms,0
+807,52,Female,Others,47.95,0,No symptoms,1
+808,74,Female,Asian,67.29,0,No symptoms,0
+809,73,Male,White,77.5,1,Shortness of breath,0
+810,49,Female,Others,62.36,0,No symptoms,0
+811,65,Male,Hispanic,13.17,0,No symptoms,1
+812,79,Male,Asian,34.84,0,No symptoms,0
+813,49,Male,Hispanic,21.55,0,No symptoms,0
+814,44,Male,Others,37.65,1,Cough,1
+815,75,Male,Black,41.76,0,No symptoms,1
+816,31,Male,Black,78.52,0,No symptoms,0
+817,18,Female,Others,79.53,0,No symptoms,1
+818,58,Male,Hispanic,61.26,0,No symptoms,0
+819,73,Male,Black,79.32,0,No symptoms,1
+820,54,Male,White,70.52,1,Wheezing,0
+821,56,Female,Asian,22.28,1,Wheezing,0
+822,73,Female,Asian,53.14,0,No symptoms,0
+823,57,Female,Black,12.79,0,No symptoms,1
+824,39,Female,Black,59.44,0,No symptoms,0
+825,37,Female,Others,10.79,0,No symptoms,0
+826,53,Female,Black,69.16,0,No symptoms,1
+827,25,Male,Black,30.81,0,No symptoms,1
+828,65,Male,Hispanic,55.35,0,No symptoms,0
+829,84,Male,Asian,32.63,1,Cough,0
+830,78,Male,Asian,50.19,1,Cough,1
+831,53,Female,Black,74.54,0,No symptoms,0
+832,35,Female,Black,38.07,1,Cough,1
+833,48,Male,Others,33.31,0,No symptoms,1
+834,61,Female,White,57.43,0,No symptoms,0
+835,45,Female,White,34.41,0,No symptoms,1
+836,77,Female,Others,24.81,0,No symptoms,0
+837,77,Female,Black,12.12,0,No symptoms,1
+838,42,Male,Black,72.84,0,No symptoms,0
+839,67,Female,Hispanic,65.76,1,Cough,1
+840,83,Female,Asian,47.94,0,No symptoms,1
+841,21,Female,Black,67.06,0,No symptoms,0
+842,24,Male,Asian,26.09,0,No symptoms,1
+843,85,Female,Black,20.2,1,Cough,1
+844,32,Male,Black,36.03,0,No symptoms,0
+845,21,Male,Asian,19.38,1,Cough,0
+846,49,Male,Others,68.03,0,No symptoms,0
+847,72,Male,White,15.99,0,No symptoms,1
+848,28,Male,White,40.36,0,No symptoms,1
+849,40,Female,Hispanic,77.84,1,Wheezing,0
+850,30,Female,White,41.81,0,No symptoms,1
+851,47,Male,Others,13.35,0,No symptoms,0
+852,80,Male,Hispanic,56.16,1,Shortness of breath,0
+853,48,Male,Asian,73.36,0,No symptoms,1
+854,41,Male,Others,78.36,0,No symptoms,0
+855,83,Male,White,73.85,1,Shortness of breath,1
+856,65,Female,Black,79.81,0,No symptoms,0
+857,53,Female,Hispanic,60.88,1,Wheezing,0
+858,53,Female,Hispanic,40.56,0,No symptoms,0
+859,52,Female,White,27.3,0,No symptoms,0
+860,32,Male,White,67.79,0,No symptoms,1
+861,31,Male,Black,42.87,0,No symptoms,0
+862,48,Male,Others,56.0,0,No symptoms,1
+863,80,Female,White,12.64,1,Shortness of breath,1
+864,63,Male,Others,72.07,0,No symptoms,1
+865,57,Male,White,16.83,1,Cough,0
+866,65,Female,White,23.03,0,No symptoms,1
+867,29,Female,Black,42.4,1,Shortness of breath,0
+868,78,Male,White,79.82,0,No symptoms,0
+869,35,Female,White,78.62,0,No symptoms,0
+870,70,Female,White,11.28,0,No symptoms,0
+871,64,Female,White,11.99,1,Wheezing,1
+872,32,Male,Asian,25.53,0,No symptoms,1
+873,29,Male,Asian,73.57,0,No symptoms,1
+874,39,Female,Others,79.32,0,No symptoms,0
+875,29,Female,Black,16.75,0,No symptoms,0
+876,23,Female,Black,58.12,0,No symptoms,0
+877,36,Male,Asian,52.21,0,No symptoms,0
+878,75,Male,Black,37.18,0,No symptoms,1
+879,57,Female,Black,34.23,1,Shortness of breath,0
+880,33,Female,White,71.66,0,No symptoms,0
+881,30,Female,Asian,63.18,0,No symptoms,1
+882,44,Male,Asian,18.69,0,No symptoms,1
+883,43,Male,Asian,55.07,0,No symptoms,0
+884,24,Male,White,18.91,1,Shortness of breath,0
+885,35,Male,Others,12.8,0,No symptoms,1
+886,29,Female,Hispanic,59.77,0,No symptoms,0
+887,85,Female,Hispanic,51.88,0,No symptoms,0
+888,49,Female,Others,72.99,0,No symptoms,1
+889,60,Female,Asian,63.97,0,No symptoms,1
+890,21,Male,Others,10.93,0,No symptoms,1
+891,73,Female,Hispanic,58.41,0,No symptoms,1
+892,56,Male,Asian,74.11,0,No symptoms,1
+893,80,Male,Others,27.23,0,No symptoms,0
+894,18,Female,White,45.28,0,No symptoms,0
+895,85,Female,Hispanic,56.23,0,No symptoms,1
+896,67,Female,Hispanic,75.62,0,No symptoms,0
+897,21,Male,Others,71.21,1,Cough,0
+898,59,Female,Hispanic,42.37,1,Wheezing,0
+899,21,Female,Hispanic,62.41,0,No symptoms,1
+900,40,Male,Hispanic,44.8,0,No symptoms,0
+901,67,Male,Asian,60.59,0,No symptoms,0
+902,31,Female,Asian,28.93,1,Wheezing,0
+903,42,Female,Others,56.98,0,No symptoms,1
+904,70,Male,White,46.21,0,No symptoms,0
+905,21,Female,Asian,62.91,0,No symptoms,0
+906,37,Female,Asian,48.46,0,No symptoms,1
+907,61,Male,Black,16.08,0,No symptoms,1
+908,70,Male,Hispanic,10.38,1,Wheezing,1
+909,45,Female,Asian,48.97,0,No symptoms,0
+910,79,Male,Asian,55.33,1,Cough,1
+911,77,Male,Hispanic,40.13,0,No symptoms,0
+912,56,Female,Others,45.51,1,Cough,0
+913,24,Female,Others,13.31,0,No symptoms,0
+914,33,Female,Black,10.87,0,No symptoms,0
+915,40,Female,Asian,15.46,0,No symptoms,0
+916,76,Female,Others,58.87,0,No symptoms,0
+917,43,Male,Asian,13.1,0,No symptoms,0
+918,44,Female,White,40.7,0,No symptoms,0
+919,39,Male,White,37.6,0,No symptoms,0
+920,44,Male,White,14.07,0,No symptoms,1
+921,45,Female,White,25.12,0,No symptoms,0
+922,36,Male,White,74.93,0,No symptoms,1
+923,49,Female,Asian,34.58,0,No symptoms,0
+924,36,Female,Black,76.27,0,No symptoms,0
+925,80,Female,Asian,75.34,0,No symptoms,0
+926,63,Female,Asian,60.35,0,No symptoms,0
+927,20,Female,Hispanic,58.26,0,No symptoms,0
+928,40,Male,Hispanic,37.87,0,No symptoms,0
+929,72,Female,Hispanic,61.48,1,Wheezing,1
+930,57,Female,Hispanic,33.82,0,No symptoms,0
+931,59,Male,Others,29.28,0,No symptoms,1
+932,85,Female,Hispanic,77.99,1,Shortness of breath,1
+933,33,Male,White,63.46,0,No symptoms,1
+934,37,Female,Others,39.12,1,Wheezing,0
+935,68,Female,Others,13.63,0,No symptoms,1
+936,65,Male,Hispanic,76.15,0,No symptoms,1
+937,77,Female,Black,30.56,0,No symptoms,1
+938,85,Male,Others,39.25,0,No symptoms,1
+939,32,Female,White,30.75,0,No symptoms,1
+940,37,Female,Hispanic,73.47,1,Cough,1
+941,44,Male,Hispanic,40.31,1,Wheezing,0
+942,38,Male,Asian,13.59,0,No symptoms,0
+943,81,Male,White,26.56,0,No symptoms,0
+944,21,Female,Asian,68.04,1,Cough,0
+945,66,Female,Hispanic,41.96,0,No symptoms,0
+946,76,Male,Others,51.66,0,No symptoms,0
+947,57,Female,Hispanic,18.99,0,No symptoms,0
+948,18,Male,Hispanic,30.94,1,Shortness of breath,0
+949,71,Female,White,12.56,0,No symptoms,0
+950,30,Female,White,75.21,0,No symptoms,0
+951,64,Female,Hispanic,65.0,0,No symptoms,0
+952,29,Female,Black,48.11,0,No symptoms,1
+953,68,Male,Asian,59.31,1,Cough,1
+954,25,Female,Hispanic,42.9,0,No symptoms,0
+955,36,Female,Asian,10.31,0,No symptoms,1
+956,37,Female,Hispanic,20.26,0,No symptoms,1
+957,54,Female,Black,42.81,1,Wheezing,0
+958,40,Female,Asian,41.01,0,No symptoms,0
+959,57,Female,Asian,15.66,0,No symptoms,0
+960,43,Female,Others,54.11,0,No symptoms,1
+961,66,Male,Black,19.15,0,No symptoms,1
+962,45,Female,Black,25.95,0,No symptoms,1
+963,27,Male,Hispanic,47.42,0,No symptoms,1
+964,32,Female,Hispanic,68.14,0,No symptoms,0
+965,48,Male,Hispanic,10.88,0,No symptoms,0
+966,20,Female,Asian,51.0,1,Wheezing,1
+967,29,Female,Asian,54.98,0,No symptoms,1
+968,40,Male,Hispanic,41.64,0,No symptoms,1
+969,67,Male,Others,41.12,0,No symptoms,0
+970,41,Male,Others,44.26,0,No symptoms,0
+971,28,Female,Black,35.24,0,No symptoms,0
+972,69,Male,Black,59.77,0,No symptoms,0
+973,18,Male,Others,52.53,0,No symptoms,0
+974,52,Male,Others,26.69,0,No symptoms,1
+975,23,Female,Hispanic,67.01,0,No symptoms,0
+976,66,Male,White,15.53,0,No symptoms,0
+977,55,Male,Asian,32.04,0,No symptoms,1
+978,26,Female,White,59.84,0,No symptoms,0
+979,48,Female,Asian,42.53,0,No symptoms,0
+980,60,Male,Others,36.95,0,No symptoms,1
+981,41,Male,White,39.98,0,No symptoms,0
+982,43,Male,Asian,66.77,1,Cough,0
+983,24,Male,Others,50.59,1,Shortness of breath,1
+984,40,Male,Others,63.34,1,Wheezing,0
+985,76,Male,Others,37.45,0,No symptoms,0
+986,59,Male,Asian,39.59,1,Shortness of breath,0
+987,66,Male,Hispanic,44.79,0,No symptoms,1
+988,18,Female,Others,32.54,0,No symptoms,1
+989,63,Male,Hispanic,50.99,0,No symptoms,1
+990,74,Female,Others,51.83,0,No symptoms,1
+991,56,Female,Asian,76.6,0,No symptoms,0
+992,85,Male,White,76.08,0,No symptoms,1
+993,50,Male,Hispanic,29.98,1,Shortness of breath,0
+994,66,Female,Others,43.16,0,No symptoms,0
+995,42,Female,Others,53.52,0,No symptoms,1
+996,81,Male,Others,66.29,0,No symptoms,1
+997,41,Female,Hispanic,30.96,0,No symptoms,0
+998,68,Male,Hispanic,48.38,0,No symptoms,0
+999,75,Female,Hispanic,13.44,0,No symptoms,1
+1000,47,Male,Asian,52.14,0,No symptoms,0
